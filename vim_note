@@ -1,0 +1,7 @@
+# copy\cut and past
+# copy\cut and past
+
+"shift+V" select line
+"yy" copy line
+"d" cut
+"p" to past line
